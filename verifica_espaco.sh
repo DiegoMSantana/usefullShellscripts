@@ -11,7 +11,7 @@ function envia_email(){
 
         USER_SENDER="someuser@someuser.com"
         DESTINATARIO_1="someuser@someuser.com"
-        DESTINATARIO_2="carloszix@hotmail.com"
+        DESTINATARIO_2="someuser@someuser.com"
         DESTINATARIO_3="someuser@someuser.com"
 
         SMTP="somesmtpserver:587"
