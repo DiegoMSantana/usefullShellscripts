@@ -28,7 +28,7 @@ function verifica_espaco(){
 
         if [ "${PERCENTUAL}" -gt 30 ]
                 then
-                        envia_email "WARNING - Problema com particao - zixcard" "A particao / (raiz) esta com mais de 60% cheia"
+                        envia_email "WARNING - Problema com particao " "A particao / (raiz) esta com mais de 60% cheia"
         else
                 exit 0
         fi
